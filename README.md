@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🚀 Elijah Bereket
+
 Systems & Backend Developer
 
 I build efficient, low-level systems and scalable backend services with a focus on performance, architecture, and clean design.
